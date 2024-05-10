@@ -4,16 +4,18 @@ Collecting CS2 "FPS Benchmark" benchmark results for referencing
 # Results:
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 | :-- | :-- | --- | :------ | :------ | :------------------------------------ | :---------------- |
-| Ryzen 7600 PBO on | RTX3080 10G | 5600C42 | 458.1 | 197.6 | 1080P + Overall low graphics settings | 2024/05/10 |
-| Ryzen 7600 PBO on | RTX3080 10G | 5600C42 | 472.5 | 182.5 | 1080P + Overall low graphics settings + FSR Performance | 2024/05/10 |
-| Ryzen 7600 PBO on | RTX3080 10G | 5600C42 XMP | 336.8 | 151.2 | 1080P Maximum Preset | 2024/05/10 |
-| 13900HX at PL1=80w | 4060 Mobile DB2.0 Disabled | 5600 JEDEC | 357.8 | 181.2 | 1080P + Overall low graphics settings | 2024/05/10 |
-| 13900HX at PL1=80w | 4060 Mobile DB2.0 Disabled | 5600 JEDEC | 357.8 | 181.2 | 1080P + Overall low graphics settings + FSR Performance | 2024/05/10 |
-| 13600KF 6P12T | RTX4070Ti 12G | 6400C36 XMP | 398.3 | 183.1 | 1440P + Overall High graphics settings + FSR Performance | 2024/05/10 |
-| 13600KF | RTX4070Ti 12G | 6400C36 XMP | 438.9 | 192.3 | Resolution + Overall Graphics Settings | Date of benchmark |
-| CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
-| CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
-| CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
+| Ryzen 7600 PBO on | RTX3080 10G | DDR5 5600C42 | 458.1 | 197.6 | 1080P + Overall low graphics settings | 2024/05/10 |
+| Ryzen 7600 PBO on | RTX3080 10G | DDR5 5600C42 | 472.5 | 182.5 | 1080P + Overall low graphics settings + FSR Performance | 2024/05/10 |
+| Ryzen 7600 PBO on | RTX3080 10G | DDR5 5600C42 XMP | 336.8 | 151.2 | 1080P Maximum Preset | 2024/05/10 |
+| 13900HX at PL1=80w | RTX4060 Mobile DB2.0 Disabled | DDR5 5600 JEDEC | 357.8 | 181.2 | 1080P + Overall low graphics settings | 2024/05/10 |
+| 13900HX at PL1=80w | RTX4060 Mobile DB2.0 Disabled | DDR5 5600 JEDEC | 357.8 | 181.2 | 1080P + Overall low graphics settings + FSR Performance | 2024/05/10 |
+| 13600KF 6P12T | RTX4070Ti | DDR5 6400C36 XMP | 373.6 | 185.8 | 1440P + Overall High graphics settings | 2024/05/10 |
+| 13600KF 6P12T | RTX4070Ti | DDR5 6400C36 XMP | 398.3 | 183.1 | 1440P + Overall High graphics settings + FSR Performance | 2024/05/10 |
+| 13600KF 6P8e20T | RTX4070Ti | DDR5 6400C36 XMP | 438.9 | 192.3 | 1440P + Overall High graphics settings + FSR Performance | 2024/05/10 |
+| 5900HX at PL1=54W | RTX3070 Mobile | DDR4 3200 JEDEC | 190.3 | 104.9 | 2160P + Overall Low Graphics Settings | 2024/05/10 |
+| 7800X3D PBO on | 7900XTX | DDR5 6000C30 XMP | 572.5 | 269.7 | 1440P + Overall High Graphics Settings + FSR Performance | 2024/05/10 |
+| 7800X3D PBO on| 7900XTX | DDR5 6000C30 XMP | 474.2 | 251.8 | 1440P + Overall High Graphics Settings | 2024/05/10 |
+| 7800X3D PBO on, CO-40 | RTX4070Super | 6000C30 XMP | 497.8 | 279.7 | 1280x960 + Overall High Graphics Settings | 2024/05/10 |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 
 
