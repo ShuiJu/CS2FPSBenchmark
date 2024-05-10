@@ -63,28 +63,39 @@ Use pull request.
 
 ### My recommanded setting for weak GPU is 
 Player contrast: ON
+
 V-Sync: off
+
 Anti aliasing: CMAA2
+
 Global Shadow: High
+
 Model/Texture detail: Low
+
 Texture filtering: Bi
+
 Shadow detail: Low
+
 Pactical detail: Low
+
 Ambient occlusion: Medium
+
 HDR: Performance
+
 FSR: Disable
+
 Reflex: Enable+Boost
 
 ## Example for submitting result:
-1. Ryzen 5 7600
-1.1 PBO on
-2. RTX3080
-2.1. Undervolted, GPU gaming frequency at 1800Mhz
-3. DDR5 5600XMP
-4. 
-4.1. 1080P + Overall low graphics settings: 458.1/182.5
-4.2. 1080P + Overall low graphics settings + FSR Performance: 472.5/197.6
-4.3. 1080P Maximum: 336.8/151.2
+1 Ryzen 5 7600
+1-1 PBO on
+2 RTX3080
+2-1 Undervolted, GPU gaming frequency at 1800Mhz
+3 DDR5 5600XMP
+4 
+4-1 1080P + Overall low graphics settings: 458.1/182.5
+4-2 1080P + Overall low graphics settings + FSR Performance: 472.5/197.6
+4-3 1080P Maximum: 336.8/151.2
 
 
 
