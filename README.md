@@ -35,13 +35,16 @@ Use this workshop map: https://steamcommunity.com/sharedfiles/filedetails/?id=32
 ## How to submit result?
 ### You can..
 New an issue, list your result in this way:
-1. CPU
-if Overclocked/Tweaked, what frequency or power setting you are running at? (which is optional, if not OC then do not include)
-2. GPU
-if Overclocked/Tweaked...
-3. RAM Speed and important timings, if XMP then just give freq.+XMP.
-if...
-4. Avg FPS/P1 FPS
+
+
+New an issue, list your result in this way:
+1 CPU
+1-1 if Overclocked/Tweaked, what frequency or power setting you are running at? (which is optional, if not OC then do not include)
+2 GPU
+2-1 if Overclocked/Tweaked...
+3 RAM Speed and important timings, if XMP then just give freq.+XMP.
+3-1 if...
+4 Avg FPS/P1 FPS
 ### Or
 Use pull request.
 
