@@ -4,9 +4,9 @@ Collecting CS2 "FPS Benchmark" benchmark results for referencing
 # Results:
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 | :-- | :-- | --- | :------ | :------ | :------------------------------------ | :---------------- |
-| Ryzen 7600 PBO on | RTX3080 10G | DDR5 5600C42 | 458.1 | 197.6 | 1080P + Overall low graphics settings | 2024/05/10 |
-| Ryzen 7600 PBO on | RTX3080 10G | DDR5 5600C42 | 472.5 | 182.5 | 1080P + Overall low graphics settings + FSR Performance | 2024/05/10 |
-| Ryzen 7600 PBO on | RTX3080 10G | DDR5 5600C42 XMP | 336.8 | 151.2 | 1080P Maximum Preset | 2024/05/10 |
+| Ryzen 7600 PBO on | RTX3080 10G at 1800Mhz | DDR5 5600C42 | 458.1 | 197.6 | 1080P + Overall low graphics settings | 2024/05/10 |
+| Ryzen 7600 PBO on | RTX3080 10G at 1800Mhz | DDR5 5600C42 | 472.5 | 182.5 | 1080P + Overall low graphics settings + FSR Performance | 2024/05/10 |
+| Ryzen 7600 PBO on | RTX3080 10G at 1800Mhz | DDR5 5600C42 XMP | 336.8 | 151.2 | 1080P Maximum Preset | 2024/05/10 |
 | 13900HX at PL1=80w | RTX4060 Mobile DB2.0 Disabled | DDR5 5600 JEDEC | 357.8 | 181.2 | 1080P + Overall low graphics settings | 2024/05/10 |
 | 13900HX at PL1=80w | RTX4060 Mobile DB2.0 Disabled | DDR5 5600 JEDEC | 357.8 | 181.2 | 1080P + Overall low graphics settings + FSR Performance | 2024/05/10 |
 | 13600KF 6P12T | RTX4070Ti | DDR5 6400C36 XMP | 373.6 | 185.8 | 1440P + Overall High graphics settings | 2024/05/10 |
@@ -34,9 +34,6 @@ Use this workshop map: https://steamcommunity.com/sharedfiles/filedetails/?id=32
 
 ## How to submit result?
 ### You can..
-New an issue, list your result in this way:
-
-
 New an issue, list your result in this way:
 1 CPU
 
