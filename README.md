@@ -54,7 +54,7 @@ New an issue, list your result in this way:
 4 Avg FPS/P1 FPS
 
 ### Or
-Use pull request.
+Send email title started with CS2 Benchmark result + *Date of benchmark* to uubxar7dl@mozmail.com
 
 ## What graphics setting and resolution should I use?
 ### Submit one of the choices, but MORE is BETTERRRR
