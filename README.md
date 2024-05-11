@@ -13,8 +13,8 @@ Collecting CS2 "FPS Benchmark" benchmark results for referencing
 | Intel 13600KF 6P12T | NVIDIA RTX4070Ti | DDR5 6400C36 XMP | 398.3 | 183.1 | 1440P + Overall High graphics settings + FSR Performance | 2024/05/10 |
 | Intel 13600KF 6P8e20T | NVIDIA RTX4070Ti | DDR5 6400C36 XMP | 438.9 | 192.3 | 1440P + Overall High graphics settings + FSR Performance | 2024/05/10 |
 | AMD Ryzen 5900HX at PL1=54W | NVIDIA RTX3070 Mobile | DDR4 3200 JEDEC | 190.3 | 104.9 | 2160P + Overall Low Graphics Settings | 2024/05/10 |
-| AMD Ryzen 7800X3D PBO on | AMD Radeon 7900XTX | DDR5 6000C30 XMP | 572.5 | 269.7 | 1440P + Overall High Graphics Settings + FSR Performance | 2024/05/10 |
-| AMD Ryzen 7800X3D PBO on| AMD Radeon 7900XTX | DDR5 6000C30 XMP | 474.2 | 251.8 | 1440P + Overall High Graphics Settings | 2024/05/10 |
+| AMD Ryzen 7800X3D PBO on | AMD Radeon RX 7900XTX | DDR5 6000C30 XMP | 572.5 | 269.7 | 1440P + Overall High Graphics Settings + FSR Performance | 2024/05/10 |
+| AMD Ryzen 7800X3D PBO on| AMD Radeon RX 7900XTX | DDR5 6000C30 XMP | 474.2 | 251.8 | 1440P + Overall High Graphics Settings | 2024/05/10 |
 | AMD Ryzen 7800X3D PBO on, CO-40 | NVIDIA RTX4070Super | 6000C30 XMP | 497.8 | 279.7 | 1280x960 + Overall High Graphics Settings | 2024/05/10 |
 | Intel 12700KF 8P16T | NVIDIA RTX4070Super | 6400C36XMP | 447.1 | 201.2 | 1440P + Overall Low Graphics Settings | 2024/05/10 |
 | Intel 12700KF 8P16T | NVIDIA RTX4070Super | 6400C36XMP | 468.4 | 199.9 | 1440P + Overall Low Graphics Settings + FSR Performance | 2024/05/10 |
