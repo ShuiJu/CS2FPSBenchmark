@@ -24,8 +24,11 @@ Collecting CS2 "FPS Benchmark" benchmark results for referencing
 ## Why collecting benchmark result from player is useful?
 I'm not criticizing but there are limitations for general reviewers who might play or not the game.
 They simply can't using esport settings in their reviews, or have not transfer their CPU reviews to CS2 version of the game yet. 
-For example, Techpowerup still use CSGO FPS Benchmark for their 14th gen review:  
+
+For example, Techpowerup still use CSGO FPS Benchmark for their 14th gen review:
+
 https://www.techpowerup.com/review/intel-core-i5-14600k/17.html
+
 It is also need to be considered that daily driving machine is not background application free. More cores might not effecting FPS in reviews, but will effect real life situation.
 
 
