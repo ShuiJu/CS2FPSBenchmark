@@ -8,7 +8,7 @@ Collecting CS2 "FPS Benchmark" benchmark results for referencing
 | AMD Ryzen 7600 PBO on | NVIDIA RTX3080 10G at 1800Mhz | DDR5 5600C42 | 472.5 | 182.5 | 1080P + Overall low graphics settings + FSR Performance | 2024/05/10 |
 | AMD Ryzen 7600 PBO on | NVIDIA RTX3080 10G at 1800Mhz | DDR5 5600C42 XMP | 336.8 | 151.2 | 1080P Maximum Preset | 2024/05/10 |
 | Intel 13900HX at PL1=80w | NVIDIA RTX4060 Mobile DB2.0 Disabled | DDR5 5600 JEDEC | 357.8 | 181.2 | 1080P + Overall low graphics settings | 2024/05/10 |
-| Intel 13900HX at PL1=80w | NVIDIA RTX4060 Mobile DB2.0 Disabled | DDR5 5600 JEDEC | 357.8 | 181.2 | 1080P + Overall low graphics settings + FSR Performance | 2024/05/10 |
+| Intel 13900HX at PL1=80w | NVIDIA RTX4060 Mobile DB2.0 Disabled | DDR5 5600 JEDEC | 468.8 | 180.4 | 1080P + Overall low graphics settings + FSR Performance | 2024/05/10 |
 | Intel 13600KF 6P12T | NVIDIA RTX4070Ti | DDR5 6400C36 XMP | 373.6 | 185.8 | 1440P + Overall High graphics settings | 2024/05/10 |
 | Intel 13600KF 6P12T | NVIDIA RTX4070Ti | DDR5 6400C36 XMP | 398.3 | 183.1 | 1440P + Overall High graphics settings + FSR Performance | 2024/05/10 |
 | Intel 13600KF 6P8e20T | NVIDIA RTX4070Ti | DDR5 6400C36 XMP | 438.9 | 192.3 | 1440P + Overall High graphics settings + FSR Performance | 2024/05/10 |
