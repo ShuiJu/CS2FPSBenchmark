@@ -116,7 +116,7 @@ Reflex: Enable+Boost
 
 
 
-
+### Don't worry, I'll update the form when I can't play CS2... So no updates on weekends XD
 
 
 
