@@ -16,8 +16,8 @@ Collecting CS2 "FPS Benchmark" benchmark results for referencing
 | 7800X3D PBO on | 7900XTX | DDR5 6000C30 XMP | 572.5 | 269.7 | 1440P + Overall High Graphics Settings + FSR Performance | 2024/05/10 |
 | 7800X3D PBO on| 7900XTX | DDR5 6000C30 XMP | 474.2 | 251.8 | 1440P + Overall High Graphics Settings | 2024/05/10 |
 | 7800X3D PBO on, CO-40 | RTX4070Super | 6000C30 XMP | 497.8 | 279.7 | 1280x960 + Overall High Graphics Settings | 2024/05/10 |
-| 12700KF 8P16T | RTX4070Super | 6400C36XMP | 447.1 | 201.2 | 1080P + Overall Low Graphics Settings | 2024/05/10 |
-| 12700KF 8P16T | RTX4070Super | 6400C36XMP | 468.4 | 199.9 | 1080P + Overall Low Graphics Settings + FSR Performance | 2024/05/10 |
+| 12700KF 8P16T | RTX4070Super | 6400C36XMP | 447.1 | 201.2 | 1440P + Overall Low Graphics Settings | 2024/05/10 |
+| 12700KF 8P16T | RTX4070Super | 6400C36XMP | 468.4 | 199.9 | 1440P + Overall Low Graphics Settings + FSR Performance | 2024/05/10 |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 
