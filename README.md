@@ -55,7 +55,7 @@ Use this workshop map: https://steamcommunity.com/sharedfiles/filedetails/?id=32
 
 ## How to submit result?
 ### You can..
-New an issue, list your result in this way:
+New an issue, list your result in this way: (Recommended)
 
 1 CPU
 
