@@ -1,5 +1,6 @@
 # CounterStrike 2 FPS Benchmark result
 Collecting CS2 "FPS Benchmark" benchmark results for referencing.
+
 For who kindly provided their graphics settings, I'll new a folder for listing their settings, naming as "Avg FPS+P1 FPS+Spec".
 
 # Results: 
