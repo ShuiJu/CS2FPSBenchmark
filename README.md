@@ -23,7 +23,13 @@ Collecting CS2 "FPS Benchmark" benchmark results for referencing
 | AMD Ryzen 5800X3D | AMD Radeon RX 6700XT | DDR4 3600XMP | 516.0 | 243.6 | 1280x960 + Overall High Graphics Settings | 2024/05/09 |
 | Intel 12400F | AMD Radeon RX 6700XT | DDR5 5200XMP | 268.6 | 129.9 | 1080P + Overall High Graphics Settings | 2024/05/11 |
 | Intel 11400F | NVIDIA GTX1060 6G | DDR4 3000XMP | 231.4 | 130.4 | 1080P + Overall Low Graphics Settings | 2024/05/11 |
-| CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
+| AMD Ryzen 5800X3D | NVIDIA RTX3070 LHR | DDR4 3600XMP | 365.5 | 193.9 | 1080P + Overall High Graphics Settings | 2024/05/11 |  
+| AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16 XMP | 471.8 | 186.0 | 1080P + All Low settings + No AA | 2024/05/11 |  
+| AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16 XMP | 445.3 | 173.1 | 1080P + All High settings + No AA | 2024/05/11 | 
+| AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16 XMP | 432.8 | 172.3 | 1080P + All High settings + 4xMSAA | 2024/05/11 |  
+| AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16 XMP | 347.5 | 127.8 | 2160P + All High settings + No AA | 2024/05/11 |  
+| AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16 XMP | 325.0 | 137.9 | 2160P + All High settings + 4xMSAA | 2024/05/11 |  
+| AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16 XMP | 124.2 | 51.9 | 4320P + All High settings + No AA | 2024/05/11 |  
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 
