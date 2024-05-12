@@ -136,8 +136,12 @@ Reflex: Enable+Boost
 And I don't have relay premium so no replies sorry.
 
 
+### What's next?
+Share, subsricbe, click that bell button... Just joking.
 
+But share this project to your friends, maybe they can also submit results of their machine. I believe this will be a better reference book than checking reviewers buying guide...
 
+Man the graphics cards are way too expensive nowadays...
 
 
 
