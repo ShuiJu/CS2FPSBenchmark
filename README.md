@@ -1,7 +1,7 @@
 # CounterStrike 2 FPS Benchmark result
 Collecting CS2 "FPS Benchmark" benchmark results for referencing
 
-# Results: (For who kindly provided their graphics settings, I'll new a doc for listing their settings)
+# Results: (For who kindly provided their graphics settings, I'll new a folder for listing their settings)
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 | :-- | :-- | --- | :------ | :------ | :------------------------------------ | :---------------- |
 | AMD Ryzen 7600 PBO on | NVIDIA RTX3080 10G at 1800Mhz | DDR5 5600C42 | 458.1 | 197.6 | 1080P + Overall low graphics settings | 2024/05/10 |
