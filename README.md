@@ -37,10 +37,10 @@ For who kindly provided their graphics settings, I'll new a folder for listing t
 
 ## Why collecting benchmark result from player is useful?
 I'm not criticizing but there are limitations for general reviewers who might play or not the game.
-At the same time they simply can't using esport settings for their reviews of product. Or they have not transfer their reviews to CS2 version of the game yet. 
+At the same time they simply can't using E-Sport settings for their reviews of product. Or they have not transfer their reviews to CS2 version of the game yet. 
 Also, if they are getting started benchmarking new component using CS2, they are going to choose whether test huge amount of data for old hardware, or just pick some iconic ones, which is less useful for general player who don't upgrade their PC yearly. 
 
-An example, Techpowerup still use CSGO FPS Benchmark for their 14th gen review:
+An example, TechPowerUp still use CSGO FPS Benchmark for their 14th gen review:
 
 https://www.techpowerup.com/review/intel-core-i5-14600k/17.html
 
@@ -83,7 +83,7 @@ Because Google is completely banned in some countries... And also you can check 
 2. Native 16:9 1080P/1440P/2160P with Maximum Preset (1080P is better, this will be a GPU limited benchmark for average random player.)
 3. Native 16:9 1080P your settings with Fidelity FX SuperResolution set to Performance (this will be a CPU limited benchmark for average random player.)
 
-### My recommanded setting for weak GPU is 
+### My recommended setting for weak GPU is  
 Player contrast: ON
 
 V-Sync: off
@@ -98,7 +98,7 @@ Texture filtering: Bi
 
 Shadow detail: Low
 
-Pactical detail: Low
+Particle detail: Low
 
 Ambient occlusion: Medium
 
@@ -137,7 +137,7 @@ And I don't have relay premium so no replies sorry.
 
 
 ### What's next?
-Share, subsricbe, click that bell button... Just joking.
+Share, subscribe, click that bell button... Just joking.
 
 But share this project to your friends, maybe they can also submit results of their machine. I believe this will be a better reference book than checking reviewers buying guide...
 
