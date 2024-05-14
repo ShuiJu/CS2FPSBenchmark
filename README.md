@@ -14,7 +14,7 @@ For who kindly provided their graphics settings, I'll new a folder for listing t
 | Intel 13600KF 6P12T | NVIDIA RTX4070Ti | DDR5 6400C36XMP | 373.6 | 185.8 | 1440P + Overall High graphics settings | 2024/05/10 |
 | Intel 13600KF 6P12T | NVIDIA RTX4070Ti | DDR5 6400C36XMP | 398.3 | 183.1 | 1440P + Overall High graphics settings + FSR Performance | 2024/05/10 |
 | Intel 13600KF 6P8e20T | NVIDIA RTX4070Ti | DDR5 6400C36XMP | 438.9 | 192.3 | 1440P + Overall High graphics settings + FSR Performance | 2024/05/10 |
-| AMD Ryzen 5900HX at PL1=54W | NVIDIA RTX3070 Mobile | DDR4 3200 JEDEC | 190.3 | 104.9 | 2160P + Overall Low Graphics Settings | 2024/05/10 |
+| AMD Ryzen 5800H at PL1=54W | NVIDIA RTX3070 Mobile | DDR4 3200 JEDEC | 190.3 | 104.9 | 2160P + Overall Low Graphics Settings | 2024/05/10 |
 | AMD Ryzen 7800X3D PBO on | AMD Radeon RX 7900XTX | DDR5 6000C30XMP | 572.5 | 269.7 | 1440P + Overall High Graphics Settings + FSR Performance | 2024/05/10 |
 | AMD Ryzen 7800X3D PBO on| AMD Radeon RX 7900XTX | DDR5 6000C30XMP | 474.2 | 251.8 | 1440P + Overall High Graphics Settings | 2024/05/10 |
 | AMD Ryzen 7800X3D PBO on, CO-40 | NVIDIA RTX4070Super | DDR5 6000C30XMP | 497.8 | 279.7 | 1280x960 + Overall High Graphics Settings | 2024/05/10 |
@@ -32,7 +32,7 @@ For who kindly provided their graphics settings, I'll new a folder for listing t
 | AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16XMP | 347.5 | 127.8 | 2160P + All High settings + No AA | 2024/05/11 |  
 | AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16XMP | 325.0 | 137.9 | 2160P + All High settings + 4xMSAA | 2024/05/11 |  
 | AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16XMP | 124.2 | 51.9 | 4320P + All High settings + No AA | 2024/05/11 |  
-| AMD Ryzen 7800X3D PBO on, per core CO, FCLK 2200Mhz | NVIDIA RTX3080 10G | DDR5 6000C28EXPO | 854.3 | 327.2 | 1080P + All Low Graphics Settings(FSRP?) | 2024/05/10 |
+| AMD Ryzen 7800X3D PBO on, per core CO, FCLK 2200Mhz | NVIDIA RTX3080 10G | DDR5 6000C28EXPO | 854.3 | 327.2 | 1080P + All Low Graphics Settings | 2024/05/10 |
 | AMD Ryzen 7600X | AMD Radeon RX 7900XT | DDR5 5400C40XMP | 511 | 209 | 1440P + Overall High Graphics Settings | 2024/05/13 |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
