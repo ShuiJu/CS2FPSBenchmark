@@ -26,14 +26,14 @@ For who kindly provided their graphics settings, I'll new a folder for listing t
 | Intel 12400F | AMD Radeon RX 6700XT | DDR5 5200XMP | 268.6 | 129.9 | 1080P + Overall High Graphics Settings | 2024/05/11 |
 | Intel 11400F | NVIDIA GTX1060 6G | DDR4 3000XMP | 231.4 | 130.4 | 1080P + Overall Low Graphics Settings | 2024/05/11 |
 | AMD Ryzen 5800X3D | NVIDIA RTX3070 LHR | DDR4 3600XMP | 365.5 | 193.9 | 1080P + Overall High Graphics Settings | 2024/05/11 |  
-| AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16 XMP | 471.8 | 186.0 | 1080P + All Low settings + No AA | 2024/05/11 |  
-| AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16 XMP | 445.3 | 173.1 | 1080P + All High settings + No AA | 2024/05/11 | 
-| AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16 XMP | 432.8 | 172.3 | 1080P + All High settings + 4xMSAA | 2024/05/11 |  
-| AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16 XMP | 347.5 | 127.8 | 2160P + All High settings + No AA | 2024/05/11 |  
-| AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16 XMP | 325.0 | 137.9 | 2160P + All High settings + 4xMSAA | 2024/05/11 |  
-| AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16 XMP | 124.2 | 51.9 | 4320P + All High settings + No AA | 2024/05/11 |  
-| AMD Ryzen 7800X3D PBO on, per core CO, FCLK 2200Mhz | NVIDIA RTX3080 10G | DDR5 6000C28 EXPO | 854.3 | 327.2 | 1080P + All Low Graphics Settings | 2024/05/10 |
-| AMD Ryzen 7600X | AMD Radeon RX 7900XT | DDR5 5400Mhz XMP | 511 | 209 | 1440P + Overall High Graphics Settings | 2024/05/13 |
+| AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16XMP | 471.8 | 186.0 | 1080P + All Low settings + No AA | 2024/05/11 |  
+| AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16XMP | 445.3 | 173.1 | 1080P + All High settings + No AA | 2024/05/11 | 
+| AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16XMP | 432.8 | 172.3 | 1080P + All High settings + 4xMSAA | 2024/05/11 |  
+| AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16XMP | 347.5 | 127.8 | 2160P + All High settings + No AA | 2024/05/11 |  
+| AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16XMP | 325.0 | 137.9 | 2160P + All High settings + 4xMSAA | 2024/05/11 |  
+| AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16XMP | 124.2 | 51.9 | 4320P + All High settings + No AA | 2024/05/11 |  
+| AMD Ryzen 7800X3D PBO on, per core CO, FCLK 2200Mhz | NVIDIA RTX3080 10G | DDR5 6000C28EXPO | 854.3 | 327.2 | 1080P + All Low Graphics Settings | 2024/05/10 |
+| AMD Ryzen 7600X | AMD Radeon RX 7900XT | DDR5 5400C40XMP | 511 | 209 | 1440P + Overall High Graphics Settings | 2024/05/13 |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 
