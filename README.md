@@ -32,6 +32,8 @@ For who kindly provided their graphics settings, I'll new a folder for listing t
 | AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16 XMP | 347.5 | 127.8 | 2160P + All High settings + No AA | 2024/05/11 |  
 | AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16 XMP | 325.0 | 137.9 | 2160P + All High settings + 4xMSAA | 2024/05/11 |  
 | AMD Ryzen 5900X PBO on | NVIDIA RTX4090 at 2800Mhz | DDR4 3600C16 XMP | 124.2 | 51.9 | 4320P + All High settings + No AA | 2024/05/11 |  
+| AMD Ryzen 7800X3D PBO on, per core CO, FCLK 2200Mhz | NVIDIA RTX3080 | DDR5 6000C28 EXPO | 854.3 | 327.2 | 1080P + All Low Graphics Settings | 2024/05/10 |
+| AMD Ryzen 7600X | AMD Radeon RX 7900XT | DDR5 5400Mhz XMP | 511 | 209 | 1440P + Overall High Graphics Settings | 2024/05/13 |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 
