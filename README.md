@@ -34,8 +34,8 @@ For who kindly provided their graphics settings, I'll new a folder for listing t
 | Ryzen 5900X PBO on | GeForce RTX4090 at 2800Mhz | DDR4 3600C16XMP | 124.2 | 51.9 | 4320P + All High + No AA | 2024/05/11 |  
 | Ryzen 7800X3D PBO on, per core CO, FCLK 2200Mhz | GeForce RTX3080 10G | DDR5 6000C28EXPO | 854.3 | 327.2 | 1080P + All Low | 2024/05/10 |
 | Ryzen 7600X | Radeon RX 7900XT | DDR5 5400C40XMP | 511 | 209 | 1440P + Overall High | 2024/05/13 |
-| Intel 13500 6P8e20T PL1=4095 | GeForce RTX4060Ti 2800Mhz/10400MT | DDR4 3400C14 B-die | 583.6 | 238.5 | 1280x960 + Overall Low | 2024/05/16 |
-| Intel 13500 6P8e20T PL1=4095 | GeForce RTX4060Ti 2800Mhz/10400MT | DDR4 3400C14 B-die | 593.9 | 237.4 | 1280x960 + Overall Low + FSRP | 2024/05/16 |
+| Intel 13500 6P8e20T PL1=4095 | GeForce RTX4060Ti 2800Mhz/10400MT/s | DDR4 3400C14 B-die | 583.6 | 238.5 | 1280x960 + Overall Low | 2024/05/16 |
+| Intel 13500 6P8e20T PL1=4095 | GeForce RTX4060Ti 2800Mhz/10400MT/s | DDR4 3400C14 B-die | 593.9 | 237.4 | 1280x960 + Overall Low + FSRP | 2024/05/16 |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 
