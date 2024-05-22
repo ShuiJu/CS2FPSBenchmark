@@ -77,7 +77,7 @@ New an issue, list your result in this way: (Recommended)
 
 2-1 if Overclocked/Tweaked...
 
-3 RAM Speed and important timings, if XMP then just give freq.+XMP.
+3 RAM Speed and primary timings, if XMP then just give freq.+XMP.
 
 3-1 if...
 
