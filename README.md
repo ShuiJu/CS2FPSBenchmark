@@ -40,6 +40,10 @@ For who kindly provided their graphics settings, I'll new a folder for listing t
 | Intel 12400 6P12T | Radeon RX580 @ Vcore=0.99V/Mem=2100Mhz | DDR4 3333C16 | 284.9 | 177.8 | 1920x1080 + Overall Low + FSRP | 2024/05/20 |
 | Intel 12400 6P12T | Radeon RX580 @ Vcore=0.99V/Mem=2100Mhz | DDR4 3333C16 | 241.4 | 124.4 | 1280x1024 + Overall Low  | 2024/05/20 |
 | Intel 12400 6P12T | Radeon RX580 @ Vcore=0.99V/Mem=2100Mhz | DDR4 3333C16 | 80.0 | 42.2 | 1080P Maximum Preset | 2024/05/20 |
+| Ryzen 7600 PBO on | GeForce RTX3080 10G @ 1800Mhz | DDR5 5600C42 | 485.6 | 197.2 | 1080P + All Low Shadow High | 2024/05/22 |
+| Ryzen 7600 PBO on | GeForce RTX3080 10G @ 1800Mhz | DDR5 5600C42 | 513.1 | 191.4 | 1080P + All Low Shadow High + FSR Performance | 2024/05/22 |
+| Ryzen 7600 PBO on | GeForce RTX3080 10G @ 1800Mhz | DDR5 5600C42 | 510.8 | 195.1 | 1080P + My cs2_video.txt | 2024/05/22 |
+| Ryzen 7600 PBO on | GeForce RTX3080 10G @ 1800Mhz | DDR5 5600C42 | 526.0 | 208.5 | 1080P + My cs2_video.txt + FSR Performance | 2024/05/22 |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 
@@ -91,14 +95,17 @@ Because Google is completely banned in some countries... And also you can check 
 2. Native 16:9 1080P/1440P/2160P with Maximum Preset (1080P is better, this will be a GPU limited benchmark for average random player.)
 3. Native 16:9 1080P your settings with Fidelity FX SuperResolution set to Performance (this will be a CPU limited benchmark for average random player.)
 
+
 ### My tuned settings for weaker GPU is in folder "my graphics setting file", following settings is outdated
-Don't change any graphics settings in game. Modify cs2_video.txt directly.
+Don't change any graphics settings in game. Modify cs2_video.txt directly. And make sure you edit at least venderID and deviceID. I'm not sure is there any other things need to be changed to your value.
 
 It should remain framerate similar to 1080P all low, but kept player shadows visible and high definition of weapon model. 
 
-I'll benchmark today (05/22) on 7600+3080, but my friends and I don't have a truly weak GPU to check the value of my profile. 
+My friends and I don't have a truly weak GPU to check the value of my profile. 
 
-I got significant performance increase using on 4060 mobile, but i don't know if it is really useful for people who have a card slower than 2060. Truly appreciate if there's someone would help me to test it.
+I got significant performance increase using on 4060 mobile, but i don't know if it is really useful for people who have a card slower than 2060. Truly appreciate if there's someone would help me to test it. 
+
+I got slightly improvement on 7600+3080, it slightly reduced CPU performance requirement.
 
 
 ## Example for submitting result:
