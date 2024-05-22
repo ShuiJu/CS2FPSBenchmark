@@ -94,6 +94,12 @@ Because Google is completely banned in some countries... And also you can check 
 ### My tuned settings for weaker GPU is in folder "my graphics setting file", following settings is outdated
 Don't change any graphics settings in game. Modify cs2_video.txt directly.
 
+It should remain framerate similar to 1080P all low, but kept player shadows visible and high definition of weapon model. 
+
+I'll benchmark today (05/22) on 7600+3080, but my friends and I don't have a truly weak GPU to check the value of my profile. 
+
+I got significant performance increase using on 4060 mobile, but i don't know if it is really useful for people who have a card slower than 2060. Truly appreciate if there's someone would help me to test it.
+
 
 ## Example for submitting result:
 1 Ryzen 5 7600
@@ -136,7 +142,7 @@ Man the graphics cards are way too expensive nowadays...
 
 
 
-### Previously recommended graphics setting
+### Previously recommended graphics setting (Outdated)
 Player contrast: ON
 
 V-Sync: off
