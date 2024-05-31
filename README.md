@@ -150,7 +150,7 @@ Man the graphics cards are way too expensive nowadays...
 
 
 
-### Previously recommended graphics setting
+### Recommended graphics setting after that 3.2GB update
 Player contrast: ON
 
 V-Sync: off
