@@ -6,4 +6,4 @@ Collecting CS2 "FPS Benchmark" benchmark results after potentially performance i
 | :-- | :-- | --- | :------ | :------ | :------------------------------------ | :---------------- |
 | Ryzen 7600 PBO on | GeForce RTX3080 10G @ 1800Mhz | DDR5 5600C42 | 336.8 | 151.2 | 1080P Maximum Preset | 2024/05/10 - initial release of FPS benchmark |
 | Ryzen 7600 PBO on | GeForce RTX3080 10G @ 1800Mhz | DDR5 5600C42 | 284.6 | 153.2 | 1080P Maximum Preset | 2024/05/24 |
-
+| Ryzen 7600 PBO on | GeForce RTX3080 10G @ 1800Mhz | DDR5 5600C42 | 283.4 | 152.2 | 1080P Maximum Preset | 2024/06/18 |
