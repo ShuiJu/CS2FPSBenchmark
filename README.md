@@ -46,8 +46,8 @@ For who kindly provided their graphics settings, I'll new a folder for listing t
 | Ryzen 7600 PBO on | GeForce RTX3080 10G @ 1800Mhz | DDR5 5600C42 | 526.0 | 208.5 | 1080P + My cs2_video.txt + FSR Performance | 2024/05/22 |
 | Ryzen 7600 PBO on | GeForce RTX3080 10G @ 1800Mhz | DDR5 5600C42 | 284.6 | 153.2 | 1080P Maximum Preset | 2024/05/24 |
 | Ryzen 7600 PBO on | GeForce RTX3080 10G @ 1800Mhz | DDR5 5600C42 | 485.6 | 197.2 | 1080P + All Low Shadow High | 2024/05/22 |
-| Ryzen 7600 PBO on | GeForce RTX3080 10G @ 1800Mhz | DDR5 5600C42 | 505.3 | 202.0 | 1080P + My new cs2_video.txt | 2024/06/13 |
 | Ryzen 7600 PBO on | GeForce RTX3080 10G @ 1800Mhz | DDR5 5600C42 | 394.3 | 185.5 | 1080P + default(import videocfg but wrong deviceID) | 2024/06/13 |
+| Ryzen 7600 PBO on | GeForce RTX3080 10G @ 1800Mhz | DDR5 5600C42 | 513.1 | 197.3 | 1080P + All Low Shadow High | 2024/05/22 |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 
