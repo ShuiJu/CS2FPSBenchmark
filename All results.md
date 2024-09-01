@@ -50,3 +50,5 @@ Old results are here.
 | Ryzen 7600 PBO on | GeForce RTX3080 10G @ 1800Mhz | DDR5 5600C42 | 394.3 | 185.5 | 1080P + default(import videocfg but wrong deviceID) | 2024/06/13 |
 | Ryzen 7600 PBO on | GeForce RTX3080 10G @ 1800Mhz | DDR5 5600C42 | 513.1 | 197.3 | 1080P + All Low Shadow High | 2024/06/13 |
 | Ryzen 7800X3D PBO on, All core CO -15, FCLK 2100Mhz | GeForce RTX4070Ti | DDR5 6000C36XMP | 604 | 280 | 1440P + Mid to High | 2024/06/21 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1800Mhz | DDR4 3600C14 | 580.8 | 229.7 | 664P + Overall low + FSRP | 2024/09/01 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1800Mhz | DDR4 3600C14 | 535.4 | 223.3 | 1080P + Overall low | 2024/09/01 |
