@@ -120,27 +120,29 @@ Man the graphics cards are way too expensive nowadays...
 
 
 
-### Recommended graphics setting after that 3.2GB update
-Player contrast: ON
+### My Current video setting:
+Boost player contrast: off
 
 V-Sync: off
 
-Anti aliasing: off
+Reflex: Enable+Boost
 
-Global Shadow: High
+Anti aliasing: 2xMSAA (A GPU perf sucker. For my 58X3D+3080 at 1080P, 4x:493 2x:515 CMAA2:523 Disabled:538. At 1440P for more GPU bottleneck, 4x:363 2x:399 CMAA2:412 Disabled:436.)
 
-Model/Texture detail: Low
+Global Shadow Quality: High (You are going to choose either Low or High. Medium and Very High makes no sense.)
 
-Texture filtering: Bi
+Dynamic Shadows: All 
 
-Shadow detail: Low
+Model/Texture detail: Low (Molotov kills my FPS, I will keep using low before setting.r_csgo_mboit_force_mixed_resolution can be tweaked again.)
+
+Texture filtering: Ani16x (Basically no performance impact on my machine, Bi:543/225 Ani4x:538/230 Ani16x: 534/234.)
+
+Shader detail: Low 
 
 Particle detail: Low
 
-Ambient occlusion: off
+Ambient occlusion: Disabled (Disabaled:511/233 Mid:493/222 High:490/208)
 
-HDR: Performance
+HDR: Quality (No performance impact on my machine in FPS Benchmark, 543vs546. In Ancient empty map 650vs620 Quality eliminates visual noise. When using Performance and at a lower resolution, is noticable when trying to align utility throws.)
 
 FSR: Disable
-
-Reflex: Enable+Boost
