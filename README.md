@@ -29,7 +29,7 @@ I created another file for backup all of the benchmark, and removed some of the 
 |   | Huge performance drop observed on 2024/10/04 after update benchmark result   |  seems like CS2 is requiring more CPU performance   |  waited for more investigation  |   |  | 2024/10/04 |
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 282.5 / 469.8 / 585.2 | 149.3 / 177 / 191.0 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP | 2024/10/04 |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
-| CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
+
 
 ## Why collecting benchmark result from player is useful?
 I'm not criticizing but there are limitations for general reviewers who might play or not the game.
