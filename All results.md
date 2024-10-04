@@ -52,3 +52,6 @@ Old results are here.
 | Ryzen 7800X3D PBO on, All core CO -15, FCLK 2100Mhz | GeForce RTX4070Ti | DDR5 6000C36XMP | 604 | 280 | 1440P + Mid to High | 2024/06/21 |
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1800Mhz | DDR4 3600C14 | 580.8 | 229.7 | 664P + Overall low + FSRP | 2024/09/01 |
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1800Mhz | DDR4 3600C14 | 535.4 | 223.3 | 1080P + Overall low | 2024/09/01 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1800Mhz | DDR4 3600C14 | 535.4 | 223.3 | 1080P + Overall low | 2024/09/01 |
+|   | Huge performance drop observed on 2024/10/04 after update benchmark result   |  seems like CS2 is requiring more CPU performance   |  waited for more investigation  |   |  | 2024/10/04 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 282.5 / 469.8 / 585.2 | 149.3 / 177 / 191.0 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP | 2024/10/04 |
