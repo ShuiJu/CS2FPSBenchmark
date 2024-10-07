@@ -129,20 +129,20 @@ Man the graphics cards are way too expensive nowadays...
 
 
 
-### My Current video setting:
-Boost player contrast: off
+### My Current video setting: (I start upload the cs2_video.txt again...)
+Boost player contrast: off (Monesy says so. :P)
 
 V-Sync: off
 
 Reflex: Enable+Boost
 
-Anti aliasing: 2xMSAA (A GPU perf sucker. For my 58X3D+3080 at 1080P, 4x:493 2x:515 CMAA2:523 Disabled:538. At 1440P for more GPU bottleneck, 4x:363 2x:399 CMAA2:412 Disabled:436.)
+Anti aliasing: 2xMSAA + CMAA2 (A GPU perf sucker. For my 58X3D+3080 at 1080P, 4x:493 2x:515 CMAA2:523 Disabled:538. At 1440P for more GPU bottleneck, 4x:363 2x:399 CMAA2:412 Disabled:436.) (You can actually manually set MSAA with CMAA2, just edit your cs2_video.txt.)
 
-Global Shadow Quality: High (You are going to choose either Low or High. Medium and Very High makes no sense.)
+Global Shadow Quality: Medium (Due to the 2024/10/04 update that you do not need to set shadow quality to high for having long shadow rendering distance. After some quick tests, I choose to set it to medium now.)
 
 Dynamic Shadows: All 
 
-Model/Texture detail: Low (Molotov kills my FPS, I will keep using low before setting.r_csgo_mboit_force_mixed_resolution can be tweaked again.)
+Model/Texture detail: Low (Molotov kills my FPS, I will keep using low before setting.r_csgo_mboit_force_mixed_resolution can be tweaked again.) (Value please fix it. You have done fixing your shadow mess, now it's time for model and texture.)
 
 Texture filtering: Ani16x (Basically no performance impact on my machine, Bi:543/225 Ani4x:538/230 Ani16x: 534/234.)
 
