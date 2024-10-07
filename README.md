@@ -5,30 +5,36 @@ For who kindly provided their graphics settings, I'll new a folder for listing t
 
 I created another file for backup all of the benchmark, and removed some of the benchmark that is less useful to general player.
 
+## Due to the update at 2024/10/04, 
+
+Value finally deband shadow render distance with shadow rendering quality, which means now you will get player's shadow rendered within 1400 units distance without requirement of setting shadow quality to high or above.
+
+This change is clearly a good move from gameplay perspective, but it will decrease the accruacy of legacy benchmark runs befor the update. 
+
+So I removed most of the pre-update results from the homepage of this project. 
+
+Don't worry there is a "All results.md", every record i received is listed here. 
+
 # Results: 
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 | :-- | :-- | --- | :------ | :------ | :------------------------------------ | :---------------- |
-| Ryzen 7600 PBO on | GeForce RTX3080 10G @ 1800Mhz | DDR5 5600C42 | 458.1 | 197.6 | 1080P + Overall low graphics settings | 2024/05/10 |
+|   |  PRE 10/04 update results starts from here:  |   Please do not compare them directly to POST update results  |    |   |   |   |
 | Intel 13900HX @ PL1=80w | GeForce RTX4060 Mobile DB2.0 Disabled | DDR5 5600 JEDEC | 357.8 | 181.2 | 1080P + Overall low | 2024/05/10 |
 | Intel 13600KF 6P12T | GeForce RTX4070Ti | DDR5 6400C36XMP | 373.6 | 185.8 | 1440P + Overall High | 2024/05/10 |
 | Ryzen 5800H @ PL1=54W | GeForce RTX3070 Mobile | DDR4 3200 JEDEC | 190.3 | 104.9 | 2160P + Overall Low | 2024/05/10 |
-| Ryzen 7800X3D PBO on| Radeon RX 7900XTX | DDR5 6000C30XMP | 474.2 | 251.8 | 1440P + Overall High | 2024/05/10 |
-| Ryzen 7800X3D PBO on, CO-40 | GeForce RTX4070Super | DDR5 6000C30XMP | 497.8 | 279.7 | 1280x960 + Overall High | 2024/05/10 |
-| Intel 12700KF 8P16T | GeForce RTX4070Super | DDR5 6400C36XMP | 447.1 | 201.2 | 1440P + Overall Low | 2024/05/10 |
-| Ryzen 5800X3D | Radeon RX 6700XT | DDR4 3600XMP | 516.0 | 243.6 | 1280x960 + Overall High | 2024/05/09 |
+| Ryzen 7800X3D PBO on, CO-40 | GeForce RTX4070 Super | DDR5 6000C30XMP | 497.8 | 279.7 | 1280x960 + Overall High | 2024/05/10 |
+| Intel 12700KF 8P16T | GeForce RTX4070 Super | DDR5 6400C36XMP | 447.1 | 201.2 | 1440P + Overall Low | 2024/05/10 |
 | Intel 12400F | Radeon RX 6700XT | DDR5 5200XMP | 268.6 | 129.9 | 1080P + Overall High | 2024/05/11 |
 | Intel 11400F | GeForce GTX1060 6G | DDR4 3000XMP | 231.4 | 130.4 | 1080P + Overall Low | 2024/05/11 |
 | Ryzen 5800X3D | GeForce RTX3070 LHR | DDR4 3600XMP | 365.5 | 193.9 | 1080P + Overall High | 2024/05/11 |
 | Ryzen 5900X PBO on | GeForce RTX4090 @ 2800Mhz | DDR4 3600C16XMP | 445.3 | 173.1 | 1080P + All High + No AA | 2024/05/11 | 
-| Intel 13500 6P8e20T PL1=4095 | GeForce RTX4060Ti @ 2800Mhz/10400MTs' | DDR4 3400C14 B-die | 583.6 | 238.5 | 1280x960 + Overall Low | 2024/05/16 |
-| Intel 12400 6P12T | Radeon RX580 @ Vcore=0.99V/Mem=2100Mhz | DDR4 3333C16 | 284.9 | 177.8 | 1920x1080 + Overall Low + FSRP | 2024/05/20 |
 | Intel 12400 6P12T | Radeon RX580 @ Vcore=0.99V/Mem=2100Mhz | DDR4 3333C16 | 241.4 | 124.4 | 1280x1024 + Overall Low  | 2024/05/20 |
-| Ryzen 7800X3D PBO on, All core CO -15, FCLK 2100Mhz | GeForce RTX4070Ti | DDR5 6000C36XMP | 604 | 280 | 1440P + Mid to High | 2024/06/21 |
-| Ryzen 5800X3D | GeForce RTX3080 10G @ 1800Mhz | DDR4 3600C14 | 580.8 | 229.7 | 664P + Overall low + FSRP | 2024/09/01 |
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1800Mhz | DDR4 3600C14 | 535.4 | 223.3 | 1080P + Overall low | 2024/09/01 |
-|   | Due to Value finally deband shadow render distance with shadow rendering quality  |  the result before 2024/10/04 become less accurate   |    |   |  | 2024/10/04 |
+|   |  POST 10/04 update results starts from here:  |   Please do not compare them directly to PRE update results  |    |   |   |   |
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 282.5 / 469.8 / 585.2 | 149.3 / 177 / 191.0 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP | 2024/10/04 |
 | Ryzen 7600 | GeForce RTX4070 Super | DDR5 6000C30 | 499.8 / 313 | 167.5 / 160.8 | 1080P + Overall low graphics settings / Maximum Preset | 2024/10/05 |
+| Ryzen 5950X PBO On | GeForce RTX2080Ti | DDR4 3600XMP | 410.8 / 250.7 | 155.7 / 123.9 | 1080P + Low Preset no FSR / Maximum Preset | 2024/10/07 |
+| Ryzen 5950X PBO On | GeForce RTX4070 Super | DDR4 3600XMP | 462.2 / 311.4 | 160.2 / 133.0 | 1080P + Low Preset no FSR / Maximum Preset | 2024/10/07 |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 
 
