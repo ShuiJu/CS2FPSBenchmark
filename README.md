@@ -82,7 +82,7 @@ Because Google is completely banned in some countries... And also you can check 
 ### Submit one of the choices, but MORE is BETTERRRR
 1. Result of your own combination favor, such as 4:3 1280x960 with your own graphics settings. You do not need to specify your settings but you can. **BUT if you uses FSR, you MUST list in your description.** (This will be a "optimized situation" performance showcase of your hardware.)
 2. Native 16:9 1080P/1440P/2160P with Maximum Preset (1080P is better, this will be a GPU limited benchmark for average random player.)
-3. Native 16:9 1080P your settings with Fidelity FX SuperResolution set to Performance (this will be a CPU limited benchmark for average random player.)
+3. 16:9 1080P your settings with Fidelity FX SuperResolution set to Performance (this will be a CPU limited benchmark for average random player.)
 
 
 
