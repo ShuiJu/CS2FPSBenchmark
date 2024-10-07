@@ -3,8 +3,6 @@ Collecting CS2 "FPS Benchmark" benchmark results for referencing.
 
 For who kindly provided their graphics settings, I'll new a folder for listing their settings, naming as "Avg FPS+P1 FPS+Spec".
 
-I created another file for backup all of the benchmark, and removed some of the benchmark that is less useful to general player.
-
 ## Due to the update at 2024/10/04, 
 
 Value finally deband shadow render distance with shadow rendering quality, which means now you will get player's shadow rendered within ~1500 units distance without requirement of setting shadow quality to high or above.
