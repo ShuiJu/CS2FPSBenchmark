@@ -7,7 +7,7 @@ I created another file for backup all of the benchmark, and removed some of the 
 
 ## Due to the update at 2024/10/04, 
 
-Value finally deband shadow render distance with shadow rendering quality, which means now you will get player's shadow rendered within 1400 units distance without requirement of setting shadow quality to high or above.
+Value finally deband shadow render distance with shadow rendering quality, which means now you will get player's shadow rendered within ~1500 units distance without requirement of setting shadow quality to high or above.
 
 This change is clearly a good move from gameplay perspective, but it will decrease the accruacy of legacy benchmark runs befor the update. 
 
