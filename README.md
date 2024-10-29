@@ -142,7 +142,7 @@ Global Shadow Quality: Medium (Due to the 2024/10/04 update that you do not need
 
 Dynamic Shadows: All 
 
-Model/Texture detail: Low (Molotov kills my FPS, I will keep using low before setting.r_csgo_mboit_force_mixed_resolution can be tweaked again.) (Value please fix it. You have done fixing your shadow mess, now it's time for model and texture.)
+Model/Texture detail: High (At around of the Armory update, maybe a little bit later, Value secretly changed this setting, that LOW no longer enable setting.r_csgo_mboit_force_mixed_resolution. That means no matter what you set, Molotov always kills FPS. From now on it basically won't effect performance. I changed it to high.)
 
 Texture filtering: Ani16x (Basically no performance impact on my machine, Bi:543/225 Ani4x:538/230 Ani16x: 534/234.)
 
