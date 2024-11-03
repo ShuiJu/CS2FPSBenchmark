@@ -57,3 +57,4 @@ Every results are here.
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 282.5 / 469.8 / 585.2 | 149.3 / 177 / 191.0 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP | 2024/10/04 |
 | Ryzen 7600 | GeForce RTX4070 Super | DDR5 6000C30 | 499.8 / 313 | 167.5 / 160.8 | 1080P + Overall low graphics settings / Maximum Preset | 2024/10/05 |
 | Ryzen 5950X PBO On | GeForce RTS2080Ti | DDR4 3600XMP | 410.8 / 250.7 | 155.7 / 123.9 | 1080P + Low Preset + Native / Maximum Preset | 2024/10/07 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 273.4 / 459.7 / 591.6 | 142.3 / 195.5 / 198.6 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP | 2024/11/03 |
