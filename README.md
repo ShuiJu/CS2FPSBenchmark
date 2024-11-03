@@ -29,10 +29,10 @@ Don't worry there is a "All results.md", every record i received is listed here.
 | Intel 12400 6P12T | Radeon RX580 @ Vcore=0.99V/Mem=2100Mhz | DDR4 3333C16 | 241.4 | 124.4 | 1280x1024 + Overall Low  | 2024/05/20 |
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1800Mhz | DDR4 3600C14 | 535.4 | 223.3 | 1080P + Overall low | 2024/09/01 |
 |   |  POST 10/04 update results starts from here:  |   Please do not compare them directly to PRE update results  |    |   |   |   |
-| Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 282.5 / 469.8 / 585.2 | 149.3 / 177 / 191.0 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP | 2024/10/04 |
 | Ryzen 7600 | GeForce RTX4070 Super | DDR5 6000C30 | 499.8 / 313 | 167.5 / 160.8 | 1080P + Overall low graphics settings / Maximum Preset | 2024/10/05 |
 | Ryzen 5950X PBO On | GeForce RTX2080Ti | DDR4 3600XMP | 410.8 / 250.7 | 155.7 / 123.9 | 1080P + Low Preset no FSR / Maximum Preset | 2024/10/07 |
 | Ryzen 5950X PBO On | GeForce RTX4070 Super | DDR4 3600XMP | 462.2 / 311.4 | 160.2 / 133.0 | 1080P + Low Preset no FSR / Maximum Preset | 2024/10/07 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 273.4 / 459.7 / 591.6 | 142.3 / 195.5 / 198.6 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP | 2024/11/03 |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 
 
