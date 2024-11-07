@@ -33,6 +33,7 @@ Don't worry there is a "All results.md", every record i received is listed here.
 | Ryzen 5950X PBO On | GeForce RTX2080Ti | DDR4 3600XMP | 410.8 / 250.7 | 155.7 / 123.9 | 1080P + Low Preset no FSR / Maximum Preset | 2024/10/07 |
 | Ryzen 5950X PBO On | GeForce RTX4070 Super | DDR4 3600XMP | 462.2 / 311.4 | 160.2 / 133.0 | 1080P + Low Preset no FSR / Maximum Preset | 2024/10/07 |
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 273.4 / 459.7 / 591.6 | 142.3 / 195.5 / 198.6 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP | 2024/11/03 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 282.7 / 471.7 / 608.0 | 164.8 / 183.4 / 213.1 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP | 2024/11/07 |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 
 
