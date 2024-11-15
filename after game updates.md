@@ -12,3 +12,6 @@ Collecting CS2 "FPS Benchmark" benchmark results after potentially performance i
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 282.5 / 469.8 / 585.2 | 149.3 / 177 / 191.0 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP | 2024/10/04 |
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 273.4 / 459.7 / 591.6 | 142.3 / 195.5 / 198.6 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP | 2024/11/03 |
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 282.7 / 471.7 / 608.0 | 164.8 / 183.4 / 213.1 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP | 2024/11/07 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 285.1 / 478.4 / 619.7 | 156.8 / 202.2 / 220.5 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP | 2024/11/14 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 298.7 / 500.5 / 656.9 | 167.6 / 210.8 / 226.9 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. Followed some black magic tutorial I found online and applied to the system. | 2024/11/14 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 485.2 | 213.6 | 1080P my cs2_video | 2024/11/15 |
