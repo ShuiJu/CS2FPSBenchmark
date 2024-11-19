@@ -59,3 +59,8 @@ Every results are here.
 | Ryzen 5950X PBO On | GeForce RTS2080Ti | DDR4 3600XMP | 410.8 / 250.7 | 155.7 / 123.9 | 1080P + Low Preset + Native / Maximum Preset | 2024/10/07 |
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 273.4 / 459.7 / 591.6 | 142.3 / 195.5 / 198.6 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP | 2024/11/03 |
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 282.7 / 471.7 / 608.0 | 164.8 / 183.4 / 213.1 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP | 2024/11/07 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 285.1 / 478.4 / 619.7 | 156.8 / 202.2 / 220.5 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP | 2024/11/14 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 298.7 / 500.5 / 656.9 | 167.6 / 210.8 / 226.9 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP | 2024/11/15 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 485.2 | 213.6 | 1080P my cs2_video | 2024/11/15 |
+| Ultra 285K Heavily OC | GeForce RTX4090 | DDR5 8800C40 tuned | 818.3 | 246.3 | 1080P Low Preset | 2024/11/19 |
+| Ultra 285K Heavily OC | GeForce RTX4070Ti Super | DDR5 8800C38 tuned | 599.3 | 215.3 | 1280x960 Overall medium | 2024/11/19 |

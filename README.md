@@ -38,6 +38,8 @@ Don't worry there is a "All results.md", every record i received is listed here.
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 285.1 / 478.4 / 619.7 | 156.8 / 202.2 / 220.5 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP | 2024/11/14 |
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 298.7 / 500.5 / 656.9 | 167.6 / 210.8 / 226.9 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP | 2024/11/15 |
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 485.2 | 213.6 | 1080P my cs2_video | 2024/11/15 |
+| Ultra 285K Heavily OC | GeForce RTX4090 | DDR5 8800C40 | 818.3 | 246.3 | 1080P Low Preset | 2024/11/19 |
+| Ultra 285K Heavily OC | GeForce RTX4070Ti Super | DDR5 8800C38 | 599.3 | 215.3 | 1280x960 Overall medium | 2024/11/19 |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 
 
@@ -158,3 +160,15 @@ Ambient occlusion: Disabled (Disabaled:511/233 Mid:493/222 High:490/208)
 HDR: Quality (No performance impact on my machine in FPS Benchmark, 543vs546. In Ancient empty map 650vs620 Quality eliminates visual noise. When using Performance and at a lower resolution, is noticable when trying to align utility throws.)
 
 FSR: Disable
+
+
+### Some investigation to Anti-Aliasing impact to CPU performance 
+| Ryzen 5800X3D + GeForce RTX3080 10G @ 1800Mhz + DDR4 3600C14 | Resolution | Graphics Settings |
+| :----- | :----- | :----- |
+| 704.9/230.0 | 640x480 | Min + FSR P, no AA |
+| 701.8/223.5 | 640x480 | Min + FSR P, CMAA2 |
+| 687.0/230.9 | 640x480 | Min + FSR P, 2xMSAA |
+| 684.0/225.6 | 640x480 | Min + FSR P, 4xMSAA |
+| 681.5/225.1 | 640x480 | Min + FSR P, 8xMSAA |
+| 712.8/233.8 | 640x480 | Min + noFSR, no AA |
+| 689.3/232.3(max 90% GPU Util observed) | 640x480 | Min + noFSR, 8xMSAA |
