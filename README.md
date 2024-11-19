@@ -134,7 +134,7 @@ Man the graphics cards are way too expensive nowadays...
 
 
 
-### My Current video setting: (I start upload the cs2_video.txt again...)
+## My Current video setting: (I start upload the cs2_video.txt again...)
 Boost player contrast: off (Monesy says so. :P)
 
 V-Sync: off
@@ -162,7 +162,7 @@ HDR: Quality (No performance impact on my machine in FPS Benchmark, 543vs546. In
 FSR: Disable
 
 
-### Some investigation to Anti-Aliasing impact to CPU performance
+## Some investigation to Anti-Aliasing impact to CPU performance
 Due to my 3080 is lacking of performance (that compares to my 5800X3D), for today's test, i'll use 640x480 to try to avoid GPU bottleneck happening.
 
 I'll underclock my 58X3D for scientific purpose (xD) some day later to try maybe 4:3 960P or if possible 4:3 1080P.
