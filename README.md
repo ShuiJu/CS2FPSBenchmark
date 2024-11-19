@@ -164,10 +164,15 @@ FSR: Disable
 
 ### Some investigation to Anti-Aliasing impact to CPU performance
 Due to my 3080 is lacking of performance (that compares to my 5800X3D), for today's test, i'll use 640x480 to try to avoid GPU bottleneck happening.
+
 I'll underclock my 58X3D for scientific purpose (xD) some day later to try maybe 4:3 960P or if possible 4:3 1080P.
+
 At this time, the conclusion for FSR is it is not magic. It will give you more FPS when your GPU sucks, but it will cost a fraction of your CPU performance. It is not completely free magic.
+
 When enabling MSAA, 8xMSAA will not cost significantly more performance on your CPU comparing to 2xMSAA. 
+
 CMAA2 is almost a completely CPU cost free AA. CMAA2 cost little to GPU performance.
+
 | Ryzen 5800X3D + GeForce RTX3080 10G @ 1800Mhz + DDR4 3600C14, at 2024/11/19 | Resolution | Graphics Settings |
 | :----- | :----- | :----- |
 | 704.9/230.0 | 640x480 | Min + FSR P, no AA |
