@@ -43,7 +43,7 @@ Don't worry there is a "All results.md", every record i received is listed here.
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 
 
-## Why collecting benchmark result from player is useful?
+# Why collecting benchmark result from player is useful?
 I'm not criticizing but there are limitations for general reviewers who might play or not the game.
 At the same time they simply can't using E-Sport settings for their reviews of product. Or they have not transfer their reviews to CS2 version of the game yet. 
 > Also, if they are getting started benchmarking new component using CS2, they are going to choose whether test huge amount of data for old hardware, or just pick some iconic ones, which is less useful for general player who don't upgrade their PC yearly. 
@@ -58,7 +58,7 @@ At the same time they simply can't using E-Sport settings for their reviews of p
 
 
 
-## How to benchmark?
+# How to benchmark?
 Use this workshop map: https://steamcommunity.com/sharedfiles/filedetails/?id=3240880604
 
 ## How to submit result?
@@ -125,7 +125,7 @@ Date of benchmark (default to be issue/email sending date)
 And I don't have relay premium so no replies sorry.
 
 
-### What's next?
+# What's next?
 Share, subscribe, click that bell button... Just joking.
 
 But share this project to your friends, maybe they can also submit results of their machine. I believe this will be a better reference book than checking reviewers buying guide...
@@ -134,7 +134,7 @@ Man the graphics cards are way too expensive nowadays...
 
 
 
-## My Current video setting: (I start upload the cs2_video.txt again...)
+# My Current video setting: (I start upload the cs2_video.txt again...)
 Boost player contrast: off (Monesy says so. :P)
 
 V-Sync: off
@@ -162,7 +162,7 @@ HDR: Quality (No performance impact on my machine in FPS Benchmark, 543vs546. In
 FSR: Disable
 
 
-## Some investigation to Anti-Aliasing impact to CPU performance
+# Some investigation to Anti-Aliasing impact to CPU performance
 Due to my 3080 is lacking of performance (that compares to my 5800X3D), for today's test, i'll use 640x480 to try to avoid GPU bottleneck happening.
 
 I'll underclock my 58X3D for scientific purpose (xD) some day later to try maybe 4:3 960P or if possible 4:3 1080P.
