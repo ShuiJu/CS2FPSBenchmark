@@ -64,3 +64,7 @@ Every results are here.
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 485.2 | 213.6 | 1080P my cs2_video | 2024/11/15 |
 | Ultra 285K Heavily OC | GeForce RTX4090 | DDR5 8800C40 tuned | 818.3 | 246.3 | 1080P Low Preset | 2024/11/19 |
 | Ultra 285K Heavily OC | GeForce RTX4070Ti Super | DDR5 8800C38 tuned | 599.3 | 215.3 | 1280x960 Overall medium | 2024/11/19 |
+| Ryzen 7700 | GeForce RTX2080Ti 11G | DDR5 6000C32 | 333.6 | 141.7 | 1080P High Preset (failed to apply profile due to deviceID was not changed)  | 2025/01/01 |
+| Ryzen 7700 | GeForce RTX2080Ti 11G | DDR5 6000C32 | 521.6 | 189.3 | 1280x1024 + Overall Medium  | 2025/01/01 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 295.6 / 447.0 / 492.6 | 157.7 / 191.5 / 202.8 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. (WTF?) | 2025/01/05 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 309.3 / 493.0 / 623.3 | 167.9 / 199.7 / 201.1 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. (Shader Recompiled) | 2025/01/05 |

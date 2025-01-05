@@ -40,6 +40,8 @@ Don't worry there is a "All results.md", every record i received is listed here.
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1725Mhz | DDR4 3600C14 | 485.2 | 213.6 | 1080P my cs2_video | 2024/11/15 |
 | Ultra 285K Heavily OC | GeForce RTX4090 | DDR5 8800C40 | 818.3 | 246.3 | 1080P Low Preset | 2024/11/19 |
 | Ultra 285K Heavily OC | GeForce RTX4070Ti Super | DDR5 8800C38 | 599.3 | 215.3 | 1280x960 Overall medium | 2024/11/19 |
+| Ryzen 7700 | GeForce RTX2080Ti 11G | DDR5 6000C32 | 333.6 | 141.7 | 1080P High Preset (failed to apply profile due to deviceID was not changed)  | 2025/01/01 |
+| Ryzen 7700 | GeForce RTX2080Ti 11G | DDR5 6000C32 | 521.6 | 189.3 | 1280x1024 + Overall Medium  | 2025/01/01 |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 
 
@@ -184,3 +186,10 @@ CMAA2 is almost a completely CPU cost free AA. CMAA2 cost little to GPU performa
 | 689.3/232.3(max 90% GPU Util observed) | 640x480 | Min + noFSR, 8xMSAA |
 | 386.8/197.5 | 1920x1080 | Max, no AA |
 | 375.7/180.7 | 1920x1080 | Max, CMAA2 |
+
+
+# Troubleshooting related links:
+
+Shader recompile:
+
+https://steamcommunity.com/app/730/discussions/0/3821922030307688567/
