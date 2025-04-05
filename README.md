@@ -36,7 +36,10 @@ Don't worry there is a "All results.md", every record i received is listed here.
 | Ultra 285K Heavily OC | GeForce RTX4070Ti Super | DDR5 8800C38 | 599.3 | 215.3 | 1280x960 Overall medium | 2024/11/19 |
 | Ryzen 7700 | GeForce RTX2080Ti 11G | DDR5 6000C32 | 333.6 | 141.7 | 1080P High Preset (failed to apply profile due to deviceID was not changed)  | 2025/01/01 |
 | Ryzen 7700 | GeForce RTX2080Ti 11G | DDR5 6000C32 | 521.6 | 189.3 | 1280x1024 + Overall Medium  | 2025/01/01 |
-| Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 315.7 / 520.6 / 678.1 | 174.0 / 213.7 / 230.7 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. | 2025/02/14 |
+| Ryzen 9700X | GeForce RTX4070Ti Super 16G | DDR5 6000C30 | 691.4 | 208.6 | 1080P Low Preset + FSRP | 2025/03/12 |
+| Ryzen 9700X | GeForce RTX4070Ti Super 16G | DDR5 6000C30 | 597.5 | 190.4 | 1080P Overall medium | 2025/03/12 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 314.0 / 512.9 / 669.2 | 171.7 / 213.3 / 228.3 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. | 2025/04/05 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 449.7 / 574.3 / 575.0 | 227.5 / 221.0 / 216.0 | 1920x1280 / 1620x1080 / 1440x1080 Overall medium my settings | 2025/04/05 |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 
 

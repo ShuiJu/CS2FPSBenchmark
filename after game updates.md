@@ -19,3 +19,5 @@ Collecting CS2 "FPS Benchmark" benchmark results after potentially performance i
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 313.2 / 508.6 / 651.7 | 177.0 / 205.8 / 223.2 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. | 2025/01/16 |
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 315.5 / 526.7 / 691.1 | 168.6 / 220.2 / 236.8 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. LLC refined | 2025/01/16 |
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 315.7 / 520.6 / 678.1 | 174.0 / 213.7 / 230.7 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. | 2025/02/14 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 303.9 / 512.0 / 679.7 | 169.2 / 210.9 / 228.7 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. | 2025/03/24 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 314.0 / 512.9 / 669.2 | 171.7 / 213.3 / 228.3 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. | 2025/04/05 |
