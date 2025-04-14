@@ -42,6 +42,8 @@ Don't worry there is a "All results.md", every record i received is listed here.
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 449.7 / 574.3 / 575.0 | 227.5 / 221.0 / 216.0 | 1920x1280 / 1620x1080 / 1440x1080 Overall medium my settings | 2025/04/05 |
 | Intel 13490F | GeForce RTX3060 12G | DDR4 3200C18 | 164.6 / 413.1 | 86.9 / 161.1 | 1080P Maximum Preset / 1080P Low Preset + FSRP. | 2025/04/05 |
 | Intel 13600KF, affected, 4.7Ghz | GeForce RTX2080 Super 8G | DDR5 5300 | 237.9 / 555.7 | 121.7 / 208.1 | 1080P Maximum Preset / 1080P Low Preset + FSRP. | 2025/04/05 |
+| Ryzen 7800X3D PBO On +0Mhz CO-0 | GeForce RTX4070Ti 12G @ Stock | DDR5 6000C30 | 914.6 | 314.7 | 1080P Low Preset + FSRP. | 2025/04/13 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 319.3 / 534.2 / 707.9 | 173.4 / 224.5 / 250.4 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. More black magic applied to my system | 2025/04/14 |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 
 
