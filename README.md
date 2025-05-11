@@ -17,7 +17,6 @@ Don't worry there is a "All results.md", every record i received is listed here.
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 | :-- | :-- | --- | :------ | :------ | :------------------------------------ | :---------------- |
 |   |  PRE 10/04 update results starts from here:  |   Please do not compare them directly to POST update results  |    |   |   |   |
-| Intel 13900HX @ PL1=80w | GeForce RTX4060 Mobile DB2.0 Disabled | DDR5 5600 JEDEC | 357.8 | 181.2 | 1080P + Overall low | 2024/05/10 |
 | Intel 13600KF 6P12T | GeForce RTX4070Ti | DDR5 6400C36XMP | 373.6 | 185.8 | 1440P + Overall High | 2024/05/10 |
 | Ryzen 5800H @ PL1=54W | GeForce RTX3070 Mobile | DDR4 3200 JEDEC | 190.3 | 104.9 | 2160P + Overall Low | 2024/05/10 |
 | Ryzen 7800X3D PBO on, CO-40 | GeForce RTX4070 Super | DDR5 6000C30XMP | 497.8 | 279.7 | 1280x960 + Overall High | 2024/05/10 |
@@ -38,26 +37,28 @@ Don't worry there is a "All results.md", every record i received is listed here.
 | Ryzen 7700 | GeForce RTX2080Ti 11G | DDR5 6000C32 | 521.6 | 189.3 | 1280x1024 + Overall Medium  | 2025/01/01 |
 | Ryzen 9700X | GeForce RTX4070Ti Super 16G | DDR5 6000C30 | 691.4 | 208.6 | 1080P Low Preset + FSRP | 2025/03/12 |
 | Ryzen 9700X | GeForce RTX4070Ti Super 16G | DDR5 6000C30 | 597.5 | 190.4 | 1080P Overall medium | 2025/03/12 |
-| Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 314.0 / 512.9 / 669.2 | 171.7 / 213.3 / 228.3 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. | 2025/04/05 |
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 449.7 / 574.3 / 575.0 | 227.5 / 221.0 / 216.0 | 1920x1280 / 1620x1080 / 1440x1080 Overall medium my settings | 2025/04/05 |
 | Intel 13490F | GeForce RTX3060 12G | DDR4 3200C18 | 164.6 / 413.1 | 86.9 / 161.1 | 1080P Maximum Preset / 1080P Low Preset + FSRP. | 2025/04/05 |
 | Intel 13600KF, affected, 4.7Ghz | GeForce RTX2080 Super 8G | DDR5 5300 | 237.9 / 555.7 | 121.7 / 208.1 | 1080P Maximum Preset / 1080P Low Preset + FSRP. | 2025/04/05 |
 | Ryzen 7800X3D PBO On +0Mhz CO-0 | GeForce RTX4070Ti 12G @ Stock | DDR5 6000C30 | 914.6 | 314.7 | 1080P Low Preset + FSRP. | 2025/04/13 |
-| Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 319.3 / 534.2 / 707.9 | 173.4 / 224.5 / 250.4 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. More black magic applied to my system | 2025/04/14 |
+| Intel 13900HX PL1 Unlimited @ 80W | GeForce RTX4060 Mobile CTGP Enabled, DB2.0 Disabled | DDR5 5600 JEDEC | 530.9 | 185.3 | 640x480P Low Preset + FSRP | 2024/04/14 |
 | Ryzen 9600X | Radeon RX6800XT | DDR5 6000C30 | 306.3 / 486.4 / 652.0 | 175.6 / 213.2 / 226.6 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. | 2025/04/20 |
+| Ryzen 9800X3D PBO On +150Mhz | Radeon RX9070XT @ -500Mhz -50mv, Full load 210W | DDR5 6000C36 | 403.6 / 922.8 | 240.2 / 318.9 | 1080P Maximum Preset / 1080P Low Preset + FSRP. | 2025/05/04 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 318.3 / 530.8 / 703.5 | 176.6 / 231.5 / 242.1 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. | 2025/05/11 |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 
 
 # Why collecting benchmark result from player is useful?
 I'm not criticizing but there are limitations for general reviewers who might play or not the game.
-At the same time they simply can't using E-Sport settings for their reviews of product. Or they have not transfer their reviews to CS2 version of the game yet. 
-> Also, if they are getting started benchmarking new component using CS2, they are going to choose whether test huge amount of data for old hardware, or just pick some iconic ones, which is less useful for general player who don't upgrade their PC yearly. 
+At the same time they simply can't using E-Sport settings for their reviews of product. 
 
-> An example, TechPowerUp still use CSGO FPS Benchmark for their 14th gen review:
+It is also need to be considered that daily driving machine is not background application free. More cores might not effecting FPS in reviews, but will effect real life situation.
 
-> https://www.techpowerup.com/review/intel-core-i5-14600k/17.html
+After the reviewers slowly adapted to CS2 benchmarking, the main object of this list has been finished.
 
-> It is also need to be considered that daily driving machine is not background application free. More cores might not effecting FPS in reviews, but will effect real life situation.
+But I'll keep recording new results submitted to me (or results I tested by my hands on my friends PC). Personally i'm now focusing on gather data of 1080P Maximum Preset and 1080P Low Preset + FSRP. Two seperate tests to give reference of if using different graphics setting, what will the upper and lower FPS will be expected. 
+
+For example, RDNA4 cards are kind slower than expected at current driver. (2025/05/11) But when it trends to CPU bottlenecked, the performance will be better than what you imagined from a result of GPU bottlenecked test.
 
 
 
