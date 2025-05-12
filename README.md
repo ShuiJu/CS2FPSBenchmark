@@ -44,7 +44,7 @@ Don't worry there is a "All results.md", every record i received is listed here.
 | Intel 13900HX PL1 Unlimited @ 80W | GeForce RTX4060 Mobile CTGP Enabled, DB2.0 Disabled | DDR5 5600 JEDEC | 530.9 | 185.3 | 640x480P Low Preset + FSRP | 2024/04/14 |
 | Ryzen 9800X3D PBO On +150Mhz | Radeon RX9070XT @ -500Mhz -50mv, Full load 210W | DDR5 6000C36 | 403.6 / 922.8 | 240.2 / 318.9 | 1080P Maximum Preset / 1080P Low Preset + FSRP. | 2025/05/04 |
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 318.3 / 530.8 / 703.5 | 176.6 / 231.5 / 242.1 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. | 2025/05/11 |
-| Ryzen 9600X | Radeon RX6800XT | DDR5 6000C30 | 331.0 / 542.5 / 731.0 | 174.9 / 223.8 / 234.7 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. | 2025/05/12 |
+| Ryzen 9600X | Radeon RX6800XT | DDR5 6000C30 | 331.0 / 542.5 / 731.0 | 174.9 / 223.8 / 234.7 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. (Win10) | 2025/05/12 |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 
 
