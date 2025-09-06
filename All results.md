@@ -83,3 +83,6 @@ Every results are here.
 | Ryzen 9800X3D PBO On +150Mhz | Radeon RX9070XT @ -500Mhz -50mv, Full load 210W | DDR5 6000C36 | 403.6 / 922.8 | 240.2 / 318.9 | 1080P Maximum Preset / 1080P Low Preset + FSRP. | 2025/05/04 |
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 318.3 / 530.8 / 703.5 | 176.6 / 231.5 / 242.1 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. | 2025/05/11 |
 | Ryzen 9600X | Radeon RX6800XT | DDR5 6000C30 | 331.0 / 542.5 / 731.0 | 174.9 / 223.8 / 234.7 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. (Win10) | 2025/05/12 |
+| Intel 10850K @ 4.8Ghz core, 4.5Ghz cache, 10C10T, PL=0 | GeForce RTX3060 12G @ 2100Mhz core, 2075Mhz VRAM | DDR4 4000C15 | 549.5 | 205.4 | 1024x768 Overall Low | 2025/08/04 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 321.7 / 542.4 / 721.6 | 186.2 / 225.5 / 250.3 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. | 2025/09/02 |
+| Intel 13650HX @ PL1=55W | GeForce RTX4060 8G @ TGP=80W | DDR5 5600C40 | 434.5 | 170.1 | 1080P Low Preset + FSRP. | 2025/09/04 |
