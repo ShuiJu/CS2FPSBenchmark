@@ -144,27 +144,27 @@ Man the graphics cards are way too expensive nowadays...
 
 
 # My Current video setting: (I start upload the cs2_video.txt again...)
-Boost player contrast: off (Monesy says so. :P)
+Boost player contrast: on (This is a free official vacless cheat given by valve let you see people much clear when smoke is around. If you have any choices left for performance, dont disable it.)
 
 V-Sync: off
 
-Reflex: Enable+Boost
+Reflex: Enable
 
 Anti aliasing: 2xMSAA + CMAA2 (A GPU perf sucker. For my 58X3D+3080 at 1080P, 4x:493 2x:515 CMAA2:523 Disabled:538. At 1440P for more GPU bottleneck, 4x:363 2x:399 CMAA2:412 Disabled:436.) (You can actually manually set MSAA with CMAA2, just edit your cs2_video.txt.)
 
-Global Shadow Quality: Medium (Due to the 2024/10/04 update that you do not need to set shadow quality to high for having long shadow rendering distance. After some quick tests, I choose to set it to medium now.)
+Global Shadow Quality: Low (After another shadow rendering distance update, now I feel medium is kinda strange for sudden quality changing in sight. I felt it's annoying)
 
-Dynamic Shadows: All 
+Dynamic Shadows: All (Why, tell me why baby.mp4)
 
-Model/Texture detail: High (At around of the Armory update, maybe a little bit later, Value secretly changed this setting, that LOW no longer enable setting.r_csgo_mboit_force_mixed_resolution. That means no matter what you set, Molotov always kills FPS. From now on it basically won't effect performance. I changed it to high.)
+Model/Texture detail: High (After previous update, this no longer kills FPS with molotov no matter High or Low, but the skin looks just better.)
 
-Texture filtering: Ani16x (Basically no performance impact on my machine, Bi:543/225 Ani4x:538/230 Ani16x: 534/234.)
+Texture filtering: Ani16x (Basically no performance impact on my machine, Bi:543/225 Ani4x:538/230 Ani16x: 534/234. And, for any choices lower than 4x, watch closer to your deagle skin on barrel. IT BLURS. For example Desert Eagle | Starcade.)
 
-Shader detail: Low 
+Shader detail: Low (Just do Low, for visual clearity issue.)
 
-Particle detail: Low
+Particle detail: Low (Just do Low, for visual clearity issue.)
 
-Ambient occlusion: Disabled (Disabaled:511/233 Mid:493/222 High:490/208)
+Ambient occlusion: Disabled (After lots of comparision made, I choose to disable not only just for performance.)
 
 HDR: Quality (No performance impact on my machine in FPS Benchmark, 543vs546. In Ancient empty map 650vs620 Quality eliminates visual noise. When using Performance and at a lower resolution, is noticable when trying to align utility throws.)
 
