@@ -144,6 +144,9 @@ Man the graphics cards are way too expensive nowadays...
 
 
 # My Current video setting: (I start upload the cs2_video.txt again...)
+
+Before you try my settings directly by download cs2_video.txt, please beware to change "VendorID" and "DeviceID" to your specific ones. Otherwise it wont work and go back to default.
+
 Boost player contrast: on (This is a free official vacless cheat given by valve let you see people much clear when smoke is around. If you have any choices left for performance, dont disable it.)
 
 V-Sync: off
