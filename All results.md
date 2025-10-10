@@ -86,3 +86,5 @@ Every results are here.
 | Intel 10850K @ 4.8Ghz core, 4.5Ghz cache, 10C10T, PL=0 | GeForce RTX3060 12G @ 2100Mhz core, 2075Mhz VRAM | DDR4 4000C15 | 549.5 | 205.4 | 1024x768 Overall Low | 2025/08/04 |
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 321.7 / 542.4 / 721.6 | 186.2 / 225.5 / 250.3 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. | 2025/09/02 |
 | Intel 13650HX @ PL1=55W | GeForce RTX4060 8G @ TGP=80W | DDR5 5600C40 | 434.5 | 170.1 | 1080P Low Preset + FSRP. | 2025/09/04 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 321.7 / 542.4 / 721.6 | 186.2 / 225.5 / 250.3 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. | 2025/09/06 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 324.8 / 537.9 / 716.6 | 182.6 / 233.7 / 239.8 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. | 2025/10/11 |
