@@ -51,6 +51,7 @@ Don't worry there is a "All results.md", every record i received is listed here.
 | Ryzen 9950X PBO On CO-10 | GeForce RTX5080 16G | DDR5 6400C32 XMP | 728.4 | 227.0 | 1080P Low Preset + FSRP. | 2025/11/19 |
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 309.4 / 516.3 / 659.7 | 111.8 / 209.2 / 230.7 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. SMT off | 2025/11/19 |
 | Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 314.2 / 520.6 / 680.2 | 165.0 / 215.5 / 259.5 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. SMT off Traditional CS2 shader recompile | 2025/11/20 |
+| Ryzen 9950X PBO On CO-10 | GeForce RTX5080 16G | DDR5 6400C32 XMP | 922.7 | 267.0 | 1080P Low Preset + FSRP. | 2025/11/22 |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 
 
