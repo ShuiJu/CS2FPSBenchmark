@@ -37,21 +37,18 @@ Don't worry there is a "All results.md", every record i received is listed here.
 | Ryzen 7700 | GeForce RTX2080Ti 11G | DDR5 6000C32 | 521.6 | 189.3 | 1280x1024 + Overall Medium  | 2025/01/01 |
 | Ryzen 9700X | GeForce RTX4070Ti Super 16G | DDR5 6000C30 | 691.4 | 208.6 | 1080P Low Preset + FSRP | 2025/03/12 |
 | Ryzen 9700X | GeForce RTX4070Ti Super 16G | DDR5 6000C30 | 597.5 | 190.4 | 1080P Overall medium | 2025/03/12 |
-| Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 449.7 / 574.3 / 575.0 | 227.5 / 221.0 / 216.0 | 1920x1280 / 1620x1080 / 1440x1080 Overall medium my settings | 2025/04/05 |
 | Intel 13490F | GeForce RTX3060 12G | DDR4 3200C18 | 164.6 / 413.1 | 86.9 / 161.1 | 1080P Maximum Preset / 1080P Low Preset + FSRP. | 2025/04/05 |
 | Intel 13600KF, affected, 4.7Ghz | GeForce RTX2080 Super 8G | DDR5 5300 | 237.9 / 555.7 | 121.7 / 208.1 | 1080P Maximum Preset / 1080P Low Preset + FSRP. | 2025/04/05 |
 | Ryzen 7800X3D PBO On +0Mhz CO-0 | GeForce RTX4070Ti 12G @ Stock | DDR5 6000C30 | 914.6 | 314.7 | 1080P Low Preset + FSRP. | 2025/04/13 |
 | Intel 13900HX PL1 Unlimited @ 80W | GeForce RTX4060 Mobile CTGP Enabled, DB2.0 Disabled | DDR5 5600 JEDEC | 530.9 | 185.3 | 640x480P Low Preset + FSRP | 2024/04/14 |
 | Ryzen 9800X3D PBO On +150Mhz | Radeon RX9070XT @ -500Mhz -50mv, Full load 210W | DDR5 6000C36 | 403.6 / 922.8 | 240.2 / 318.9 | 1080P Maximum Preset / 1080P Low Preset + FSRP. | 2025/05/04 |
-| Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 318.3 / 530.8 / 703.5 | 176.6 / 231.5 / 242.1 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. | 2025/05/11 |
 | Ryzen 9600X | Radeon RX6800XT | DDR5 6000C30 | 331.0 / 542.5 / 731.0 | 174.9 / 223.8 / 234.7 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. (Win10) | 2025/05/12 |
 | Intel 10850K @ 4.8Ghz core, 4.5Ghz cache, 10C10T, PL=0 | GeForce RTX3060 12G @ 2100Mhz core, 2075Mhz VRAM | DDR4 4000C15 | 549.5 | 205.4 | 1024x768 Overall Low | 2025/08/04 |
 | Intel 13650HX @ PL1=55W | GeForce RTX4060 8G @ TGP=80W | DDR5 5600C40 | 434.5 | 170.1 | 1080P Low Preset + FSRP. | 2025/09/04 |
-| Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 324.8 / 537.9 / 716.6 | 182.6 / 233.7 / 239.8 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. | 2025/10/11 |
 | Ryzen 9950X PBO On CO-10 | GeForce RTX5080 16G | DDR5 6400C32 XMP | 728.4 | 227.0 | 1080P Low Preset + FSRP. | 2025/11/19 |
-| Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 309.4 / 516.3 / 659.7 | 111.8 / 209.2 / 230.7 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. SMT off | 2025/11/19 |
-| Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 314.2 / 520.6 / 680.2 | 165.0 / 215.5 / 259.5 | 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP. SMT off Traditional CS2 shader recompile | 2025/11/20 |
-| Ryzen 9950X PBO On CO-10 | GeForce RTX5080 16G | DDR5 6400C32 XMP | 922.7 | 267.0 | 1080P Low Preset + FSRP. | 2025/11/22 |
+| Ryzen 9950X PBO On CO-10 | GeForce RTX5080 16G | DDR5 6400C32 XMP | 922.7 | 267.0 | 1080P Low Preset + FSRP. With process lasso and -threads and MPO Off tune. | 2025/11/22 |
+| Intel 14700KF @ PCores 5.5Ghz & eCores 2.5Ghz, ACLoadline 26, SMT Off | GeForce RTX3080 10G， P2 Disabled,  | DDR4 3900C17 Manual Tuned | 793.4 | 283.8 | 1280x960 Overall Low | 2026/02/23 |
+| Ryzen 5800X3D | GeForce RTX3080 10G @ 1815Mhz | DDR4 3600C14 | 376.4 / 596.8 / 743.6 / 783.9 | 184.4 / 230.9 / 241.8 / 244.2| 1080P Maximum Preset / 1080P Medium Preset + Native / 1080P Low Preset + FSRP / 960x540P Low Preset + FSR Off. SMT on again, system resintalled | 2026/02/23 |
 | CPU | GPU | RAM | Avg FPS | P1 FPS | Resolution + Overall Graphics Settings | Date of benchmark |
 
 
@@ -135,7 +132,7 @@ Date of benchmark (default to be issue/email sending date)
 ### Don't worry, I'll update the form when I can't play CS2... So no updates on weekends XD
 
 
-And I don't have relay premium so no replies sorry.
+And I don't have relay premium so no replies from email submission sorry.
 
 
 # What's next?
@@ -157,29 +154,29 @@ V-Sync: off
 
 Reflex: Enable
 
-Anti aliasing: 2xMSAA + CMAA2 (A GPU perf sucker. For my 58X3D+3080 at 1080P, 4x:493 2x:515 CMAA2:523 Disabled:538. At 1440P for more GPU bottleneck, 4x:363 2x:399 CMAA2:412 Disabled:436.) (You can actually manually set MSAA with CMAA2, just edit your cs2_video.txt.)
+Anti aliasing: 4xMSAA (A GPU perf sucker. For my 58X3D+3080 at 1080P, 4x:493 2x:515 CMAA2:523 Disabled:538. At 1440P for more GPU bottleneck, 4x:363 2x:399 CMAA2:412 Disabled:436.) (You can actually manually set MSAA with CMAA2, just edit your cs2_video.txt.)
 
 Global Shadow Quality: Low (After another shadow rendering distance update, now I feel medium is kinda strange for sudden quality changing in sight. I felt it's annoying)
 
-Dynamic Shadows: All (Why, tell me why baby.mp4)
+Dynamic Shadows: All (Why, tell me baby why.mp4)
 
 Model/Texture detail: High (After previous update, this no longer kills FPS with molotov no matter High or Low, but the skin looks just better.)
 
-Texture filtering: Ani16x (Basically no performance impact on my machine, Bi:543/225 Ani4x:538/230 Ani16x: 534/234. And, for any choices lower than 4x, watch closer to your deagle skin on barrel. IT BLURS. For example Desert Eagle | Starcade.)
+Texture filtering: Ani16x (Basically no performance impact on my machine, Bi:543/225 Ani4x:538/230 Ani16x: 534/234. And, for any choices lower than 4x, watch closer to your deagle skin on barrel. IT BLURS. For example: Desert Eagle | Starcade.)
 
-Shader detail: Low (Just do Low, for visual clearity issue.)
+Shader detail: Low (Just do Low. After further comparison, when setting to high, the wall and road are more bumpy, for example any brick wall at Ancient.)
 
-Particle detail: Low (Just do Low, for visual clearity issue.)
+Particle detail: Low (Just do Low. After further comparison, I can only observe when grenade explosion, the quality of the small pieces flying mid air.)
 
-Ambient occlusion: Disabled (After lots of comparision made, I choose to disable not only just for performance.)
+Ambient occlusion: Disabled (After lots of comparision made, I choose to set to disable.)
 
-HDR: Quality (No performance impact on my machine in FPS Benchmark, 543vs546. In Ancient empty map 650vs620 Quality eliminates visual noise. When using Performance and at a lower resolution, is noticable when trying to align utility throws.)
+HDR: Quality (No performance impact on my machine in FPS Benchmark, 543vs546. In Ancient empty map 650vs620. Set to quality eliminates visual noise. When setting to Performance, and at a lower resolution such as 16:9 1080P on a 1080P monitor, the noise is getting noticable, and can be annoying when trying to align some utility throws. For example: dual mouse press jumpthrow CT full cover smoke from banana white wall at Inferno.)
 
 FSR: Disable
 
 
 # Some investigation to Anti-Aliasing impact to CPU performance
-Due to my 3080 is lacking of performance (that compares to my 5800X3D), for today's test, i'll use 640x480 to try to avoid GPU bottleneck happening.
+Due to my 3080 is lacking of performance (that compares to my 5800X3D) for today's test, i'll use 640x480 to try to avoid GPU bottleneck happening.
 
 I'll underclock my 58X3D for scientific purpose (xD) some day later to try maybe 4:3 960P or if possible 4:3 1080P.
 
@@ -189,7 +186,7 @@ When enabling MSAA, 8xMSAA will not cost significantly more performance on your 
 
 CMAA2 is almost a completely CPU cost free AA. CMAA2 cost little to GPU performance.
 
-| Ryzen 5800X3D + GeForce RTX3080 10G @ 1800Mhz + DDR4 3600C14, at 2024/11/19 | Resolution | Graphics Settings |
+| Ryzen 5800X3D + GeForce RTX3080 10G @ 1800Mhz + DDR4 3600C14, benchmark results at 2024/11/19 | Resolution | Graphics Settings |
 | :----- | :----- | :----- |
 | 704.9/230.0 | 640x480 | Min + FSR P, no AA |
 | 701.8/223.5 | 640x480 | Min + FSR P, CMAA2 |
@@ -201,6 +198,34 @@ CMAA2 is almost a completely CPU cost free AA. CMAA2 cost little to GPU performa
 | 386.8/197.5 | 1920x1080 | Max, no AA |
 | 375.7/180.7 | 1920x1080 | Max, CMAA2 |
 
+# Some investigation to -threads
+Due to my 3080 is kinda powerful enough (that compares to my 5800X3D) for today's test, i'll use 960x540 to try to avoid GPU bottleneck happening. 640x480 is just murdering my eyes...
+
+First of all, don't set -threads n+1 while n is the maximum core count of your CPU. Use process lasso or something equivalent to automatically bind CPU Sets (or affinity if you prefer) to only one logical core per core and avoiding CPU0 for cs2.exe. 
+
+For example, trying optimizing for a 8 core 16 thread when SMT on processor as example, you have CPU0~15 for your processor. CPU0 and CPU1 are working on same phisical core 0, or your first physical CPU core at your processor. CPU 2 and CPU3 are at one physical core, CPU 4 and CPU 5 at another single physical core...
+
+Use CPU set (or affinity) to bind cs2.exe to only CPU 2/4/6/8/10/12/14 which is 7 logical cores, each logical core from only one phisical core. Avoiding CPU 0 because it is natually consumed by other services. 
+
+In my investgation, -threads 6 avoiding CPU 0 is optimal for cs2. When using a 6 core system, -threads 5 and avoiding CPU 0 is better than -threads 6 (which is auto) and using CPU0.
+
+Due to lack of device (or more specifically I don't have an Intel system that doesn't have limitation for CPU power/current/thermal), I have no idea for a 6 P core Intel processor behaves. My no brainer suggestion is to avoid CPU0 and e cores to be used by cs2.
+
+| Ryzen 5800X3D + GeForce RTX3080 10G @ 1815Mhz + DDR4 3600C14, benchmark results at 2026/02/14 | Core counts settings = -threads number if not specified | If CPU0 is getting bind to cs2.exe |
+| :----- | :----- | :----- |
+| 720.3/231.4 | 8 | Yes |
+| 802/246.1 | 7 | No |
+| 787.5/246.0 | CPU sets 7, -threads 8 | No |
+| 799.9/250 | 6 | Yes |
+| 766.8/242.3 | 6 | No |
+| 655.7/229.7 | 5 | No |
+| 703.8/242.1 | 4 | Yes |
+| 595.6/214.7 | 4 | No |
+
+# Some investigation to CS2 latency, for MPO enabled/disabled and Fullscreen exclusive/Fullscreen windowed, RTSS ASync/G-Sync/V-Sync/G-Sync+V-Sync
+(I bought OSLTT as my Chinese New Year present! But, man!.mp4 The shipping itself takes only assuming 5 days in total as i should receive it tomorrow. How did they use a whole 7 day to pack a single package and send it to post? Having a vacation for Chinese New Year?)
+
+((I am using RTSS ASync to 240 right now. Therotically I got a 1 frame latency penalty.))
 
 # Troubleshooting related links:
 

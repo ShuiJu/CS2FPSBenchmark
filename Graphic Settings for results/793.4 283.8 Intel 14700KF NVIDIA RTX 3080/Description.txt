@@ -1,0 +1,18 @@
+CPU:14700kf frq stock, HT off,p55 e25 acloadline26, 1.26v, Thermalright PA 120se
+RAM: ddr4 hynix djr @ 3900 1.46V
+
+GPU:Nvidia RTX 3080, DisableDynamicPState (HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class{4d36e968-e325-11ce-bfc1-08002be10318}\0000:DisableDynamicPState 1)
+
+OS: FSOS V1.4COMP.iso
+powerPlan: FSOS default(FRAMESYNC Labs Boost) @ Processor idle disable;@ Heterogeneous policy3;
+
+https://github.com/Prohect/AffinityServiceRust @
+config - Hardlink.ini.txt
+https://github.com/user-attachments/files/25496370/config.-.Hardlink.ini.txt
+
+(cs2.exe:normal:*a:*pN456:*456@ cs2.exe!normal;nvwgf2umx.dll!above normal:normal:none)
+@ cli "-config config.ini -blacklist blacklist.ini -interval 16000 -resolution 5238"
+
+cs2 cli arg: -novid -no-browser -nojoy -threads 5 +cl_forcepreload 1 -worldwide +exec autoexec.cfg
+cs2_video.txt
+https://github.com/user-attachments/files/25495675/cs2_video.txt
