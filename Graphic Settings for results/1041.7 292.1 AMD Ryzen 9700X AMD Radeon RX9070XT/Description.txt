@@ -1,0 +1,12 @@
+    This is so so so fast! Would you share some optimization you used on your system? I believe if you run on stock it would still be significantly faster than most of the people who uses similar setup. It will be really helpful for others who suffers from not be able to upgrade their machine to new platforms due to maybe skyrocketing memory prices. And still really appreciate for your submission!
+
+Hi! Nothing really special. Afaik clean OS is very impactful for this benchmark. I use just reviOS without any extra tweaks. In bios too, nothing special except OC settings and SVM, iGPU off. -core0,1 in task manager for cs2. And obviously everything on desktop must be closed when you do benchmark. I also dont have any bullshit bloatware like asus armory crate and others vendors soft, rgb/fan software etc, they are definately nerfing fps in any game as they always work in background.
+
+I can test cpu auto + simulate 6000c30 xmp tomorrow, me bet it will be around 800/220
+
+Also even with my videocard, i am gpu bottlenecked, so you must run low resolution to unify results regardless gpu. For example, 2304x1440 i got only 753 avg, while 1% fps is same as non bottlenecked result. I suppose only 4080/5080/4090/5090 can run this benchmark in 1080p without bottlenecking avg/max fps
+
+Made test with cpu auto + xmp 6000cl30, literally nothing else in bios 
+
+922.8/251.4
+
