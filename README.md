@@ -1,3 +1,6 @@
+Due to a better solution exists: https://cstb.okk.cool/benchmarks
+This project will not be maintained from now.
+
 # CounterStrike 2 FPS Benchmark result
 Collecting CS2 "FPS Benchmark" benchmark results for referencing.
 
